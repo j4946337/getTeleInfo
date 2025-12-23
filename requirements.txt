@@ -1,0 +1,12 @@
+# Telegram User Query API Dependencies
+# Python 3.8+ required
+
+# Telegram MTProto API client
+Telethon>=1.36.0
+
+# Web framework
+Flask>=3.0.0
+
+# CORS support for Flask
+Flask-Cors>=4.0.0
+

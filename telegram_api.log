@@ -1,0 +1,47 @@
+2025-12-22 11:48:15,760 [INFO] ==================================================
+2025-12-22 11:48:15,760 [INFO] Telegram ÓÃ»§²éÑ¯ API ·þÎñ
+2025-12-22 11:48:15,760 [INFO] ==================================================
+2025-12-22 11:48:15,761 [INFO] ÕýÔÚ³õÊ¼»¯ Telegram ¿Í»§¶Ë...
+2025-12-22 11:48:15,832 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2025-12-22 11:48:17,795 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2025-12-22 11:50:41,147 [INFO] Phone migrated to 4
+2025-12-22 11:50:41,391 [INFO] Reconnecting to new data center 4
+2025-12-22 11:50:41,645 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2025-12-22 11:50:41,645 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-12-22 11:50:41,646 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2025-12-22 11:50:43,747 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2025-12-22 11:52:25,856 [INFO] ==================================================
+2025-12-22 11:52:25,856 [INFO] Telegram ÓÃ»§²éÑ¯ API ·þÎñ
+2025-12-22 11:52:25,856 [INFO] ==================================================
+2025-12-22 11:52:25,857 [INFO] ÕýÔÚ³õÊ¼»¯ Telegram ¿Í»§¶Ë...
+2025-12-22 11:52:25,904 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2025-12-22 11:52:26,137 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2025-12-22 11:54:12,418 [WARNING] Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2025-12-23 10:55:17,786 [INFO] ==================================================
+2025-12-23 10:55:17,786 [INFO] Telegram ÓÃ»§²éÑ¯ API ·þÎñ
+2025-12-23 10:55:17,788 [INFO] ==================================================
+2025-12-23 10:55:17,789 [INFO] ÕýÔÚ³õÊ¼»¯ Telegram ¿Í»§¶Ë...
+2025-12-23 10:55:17,789 [INFO] »á»°ÎÄ¼þÂ·¾¶: C:\Users\Administrator\PhpstormProjects\getTeleInfo\data\api_session
+2025-12-23 10:55:17,789 [INFO] Êý¾ÝÄ¿Â¼: C:\Users\Administrator\PhpstormProjects\getTeleInfo\data (´æÔÚ: True, ¿ÉÐ´: True)
+2025-12-23 10:55:17,877 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2025-12-23 10:55:20,043 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2025-12-23 10:55:43,822 [INFO] Phone migrated to 4
+2025-12-23 10:55:44,062 [INFO] Reconnecting to new data center 4
+2025-12-23 10:55:44,307 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2025-12-23 10:55:44,308 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-12-23 10:55:44,308 [INFO] Connecting to 149.154.167.91:443/TcpFull...
+2025-12-23 10:55:46,415 [INFO] Connection to 149.154.167.91:443/TcpFull complete!
+2025-12-23 10:55:58,246 [INFO] ==================================================
+2025-12-23 10:55:58,263 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:50001
+ * Running on http://10.0.157.74:50001
+2025-12-23 10:55:58,263 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-23 10:56:02,239 [INFO] 127.0.0.1 - - [23/Dec/2025 10:56:02] "[33mGET / HTTP/1.1[0m" 404 -
+2025-12-23 10:56:02,319 [INFO] 127.0.0.1 - - [23/Dec/2025 10:56:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-23 10:56:07,440 [INFO] 127.0.0.1 - - [23/Dec/2025 10:56:07] "[33mGET /cjsy HTTP/1.1[0m" 404 -
+2025-12-23 10:56:32,040 [INFO] ÕýÔÚ²éÑ¯ÓÃ»§: cjsy
+2025-12-23 10:56:32,040 [ERROR] ²éÑ¯Ê§°Ü: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-12-23 10:56:32,040 [INFO] 127.0.0.1 - - [23/Dec/2025 10:56:32] "GET /api/user/cjsy HTTP/1.1" 200 -
+2025-12-23 10:58:56,207 [INFO] Disconnecting from 149.154.167.91:443/TcpFull...
+2025-12-23 10:58:56,208 [INFO] Disconnection from 149.154.167.91:443/TcpFull complete!

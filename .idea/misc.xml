@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="C:\ProgramData\Anaconda3\Scripts\black.exe" />
+    <option name="sdkName" value="getTeleInfo" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="getTeleInfo" project-jdk-type="Python SDK" />
+  <component name="TyConfiguration">
+    <option name="enabled" value="true" />
+  </component>
+</project>
