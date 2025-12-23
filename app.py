@@ -40,9 +40,9 @@ os.makedirs(DATA_DIR, exist_ok=True)
 SESSION_FILE = os.path.join(DATA_DIR, 'api_session')
 
 # ============================================
-# 日志配置
+# 日志配置（日志文件放在 data 目录，确保可写）
 # ============================================
-LOG_FILE = os.path.join(SCRIPT_DIR, 'telegram_api.log')
+LOG_FILE = os.path.join(DATA_DIR, 'telegram_api.log')
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
